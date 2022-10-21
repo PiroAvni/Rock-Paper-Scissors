@@ -7,10 +7,9 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="RockPaperScissor" expanded="True">
+          <Node name="RockPaperScissor" expanded="True" selected="True">
             <Node name="RockPaperScissor" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
